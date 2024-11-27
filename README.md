@@ -2,7 +2,6 @@
 Workshop: Building a Retrieval-Augmented Generator (RAG) with LangChain and Pinecone
 
 
-```markdown
 # Instrucciones
 
 ## Parte 1: Construir un RAG usando LangChain y OpenAI
